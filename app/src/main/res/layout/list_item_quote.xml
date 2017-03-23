@@ -6,7 +6,8 @@
     android:gravity="center_vertical"
     android:orientation="horizontal"
     android:paddingLeft="16dp"
-    android:paddingRight="16dp">
+    android:paddingRight="16dp"
+    android:contentDescription="@string/list_item_des">
 
     <TextView
         android:id="@+id/symbol"

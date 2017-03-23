@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adding_stock_des">يمكنك ان تضيف اسهم جديده من هنا</string>
+    <string name="app_name">أسهم البورصه</string>
+    <string name="dialog_add">أضافه</string>
+    <string name="dialog_cancel">ألغاء</string>
+    <string name="dialog_des">يمكنك ان تضيف اسهم جديده من هنا</string>
+    <string name="dialog_hint">اسم السهم</string>
+    <string name="dialog_title">أضق سهم</string>
+    <string name="error_no_network">لا يوجد اتصال باﻷأنترنت , سوف يتم تحديث البيانات عندما يوجد اتصال</string>
+    <string name="error_no_stocks">لا يوجد اسهم اضغط علي الزر بالأسفل لتضيف اسهم جديده</string>
+    <string name="list_item_des">انها تظهر حاله السهم و سعره</string>
+    <string name="pref_display_mode_absolute_key">مطلق</string>
+    <string name="pref_display_mode_key">وضع العرض</string>
+    <string name="pref_display_mode_percentage_key">نسبه</string>
+    <string name="pref_stocks_key">سهم</string>
+    <string name="recyclerview_des">السهم يظهر هنا , عندما تخغط عليه سوف تذهب لصفحه هذا السهم</string>
+    <string name="toast_no_connectivity">سيتم التحديث عندما تكون الشبكة متاحة</string>
+    <string name="toast_stock_added_no_connectivity">تمت إضافة الرمز٪ s. سيتم تحديث عندما الشبكة المتاحة.</string>
+</resources>

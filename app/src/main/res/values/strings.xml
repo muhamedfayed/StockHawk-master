@@ -32,4 +32,11 @@
     <string name="toast_stock_added_no_connectivity">Symbol %s added. Will refresh when network available.</string>
     <string name="toast_no_connectivity">Will refresh when network available.</string>
 
+    <string name="adding_stock_des">You can add new stocks from this button</string>
+    <string name="recyclerview_des">The stocks is appearing here, when click on one you will go to this stock page</string>
+
+    <string name="list_item_des">It's showes the stocks status and show it's price</string>
+
+    <string name="dialog_des">You can add new stocks from this button</string>
+
 </resources>
